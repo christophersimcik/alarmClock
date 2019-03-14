@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BackgroundView">
+        <attr name="upTop" format="color"/>
+        <attr name="upBot" format="color"/>
+        <attr name="downTop" format="color"/>
+        <attr name="downBot" format="color">
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="CircleView">
+        <attr name="setRadius" format="integer" />
+        />
+    </declare-styleable>
+</resources>

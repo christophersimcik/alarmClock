@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="initUpA">#5959a6</color>
+    <color name="initUpB">#7a7ab8</color>
+    <color name="initDownA">#ffe6e6</color>
+    <color name="initDownB">#596ca6</color>
+    <color name="moon">#f2faca</color>
+    <color name="moon_transparency">#64f2faca</color>
+    <color name="nimbus_blue">#32b4cacb</color>
+    <color name="nimbus_red">#32ecbdaa</color>
+    <color name="sun_rays">#32ffffff</color>
+    <color name="alpha_white">#16ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="trans_white">#80ffffff</color>
+    <color name="lo_trans_white">#1affffff</color>
+    <color name="hours_indic">#d6691b</color>
+    <color name="hours_trans">#40d6691b</color>
+    <color name="mins_indic">#19add6</color>
+    <color name="mins_trans">#4019add6</color>
+</resources>
